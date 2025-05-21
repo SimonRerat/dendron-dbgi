@@ -2,7 +2,7 @@
 id: 95xu1y8aejfsw1nnhat2qxd
 title: introduction
 desc: ''
-updated: 1745400543893
+updated: 1747837896933
 created: 1744614093716
 ---
 EMI:
@@ -12,7 +12,7 @@ In term, this should benefit  human society as a whole, help better understand t
 
 It strives for the creation of a new web of knowledge, linking metabolomics, biology, chemistry, and other open datasets together.
 To reach this goal, the EMI team will have to develop  informatical, organisational, and scientific tools tailor made for their needs.
-This is where the Digital Botanical Gardens Initiative (DBGI) comes into place.
+This is where the Digital Botanical Gardens Initiative (DBGI) comes into place (The EMI Consortium, 2022).
 
 
 DBGI:
@@ -24,4 +24,4 @@ Not to forget the creation of a knowledge graphe by recouping the informations f
 This should help visualise and search the functioning of ecosystems, orient research and conservation efforts.
 As the methods of the DBGI while be applied to the EMI, its methods and workflow need to be scalable to match the scale of such an ambitious project. And ultimately, be applicable in wild, hard to access ecosystems.
 
-As of now, only the Jardin Botanique de l'Université de Fribourg (JBUF) and the Jardin Botanique de Neuchâtel (JBN) are part of the initiative. The causes being practical reasons, founding teams have their offices located in Fribourg and Neuchâtel respectively, and ther unique characteristics, the JBUF arranged its angyosperms in a systematic way, and the JBN has a collection of ethnomedicinal plants.
+As of now, only the Jardin Botanique de l'Université de Fribourg (JBUF) and the Jardin Botanique de Neuchâtel (JBN) are part of the initiative. The causes being practical reasons, founding teams have their offices located in Fribourg and Neuchâtel respectively, and ther unique characteristics, the JBUF arranged the System according to the according to the APG IV (UNIFR about JBUF), and the JBN has a plants collection of ethnomedicinal value (The DBGI Consortium, 2022).

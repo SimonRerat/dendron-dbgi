@@ -2,7 +2,7 @@
 id: atiwalb8tfjseo35bgzy20s
 title: Methodology
 desc: ''
-updated: 1746626561552
+updated: 1746696281965
 created: 1744614277240
 ---
 In our project, we will apply the already tested DBGI methodology to trees. They differ from precedently sampled plants as they bear lignified organs (bark, branches, pinecones, ...) which cannot be pulverised by the metal beads used in the standard protocol. This nuisance might be overcomed by using discoid  beads.
@@ -39,7 +39,7 @@ How are they placed in the garden ? Taxonomic/usefulness reasons? Remains of the
 
   The freeze-drying process needs to be at least 72 hours long to make sure the samples are absolutely dry. 
   Directly after the freeze-drying process, all the perforated caps need to be switched with standard, disinfected, non-perforated caps to avoid contamination from the environment. The falcon tubes are then scanned and stored in a labeled rack. The tubes will then be stored in said racks to allow easy access to the sample if need be.
-  The first step of the extraction process is the weighing. 50 mg needs to be weighted and inserted in a 2ml Eppendorf tube with a rounded bottom. 3 metal beads, or 3 disc beads if the sample is a needle or lignified, are added alos added. An error up to 5% is accepted. To separate the tubes containing  normal beads from the discoids beads, the letter β is written on the tubes containing the discoid beads.
+  The first step of the extraction process is the weighing. 50 mg needs to be weighted and inserted in a 2ml Eppendorf tube with a rounded bottom. 3 metal beads, or 3 disc beads if the sample is a needle or lignified, are added. An error up to 5% is accepted. To separate the tubes containing  normal beads from the discoids beads, the letter β is written on the tubes containing the discoid beads.
 
   The Eppendorf tubes then go in the MM40 Retsch machine (shaker) for 2.5 minutes at 25Hz for standard beads and 5 minutes at 25Hz for the discoid beads. Then, 1,5ml of the DBGI extraction solution is added. Said extraction is made of a mix of 80% methanol, 20% distilled water, and 0,1% formic acid. The newly rehydrated samples go back in the Retsch machine for a second ride with the same settings.
   
