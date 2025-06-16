@@ -2,10 +2,10 @@
 id: wo6jaa4tha41ijphuq2rqyz
 title: Abstract
 desc: ''
-updated: 1749804271577
+updated: 1750066271803
 created: 1743421297486
 ---
-This Bachelor project's takes place in the context of the DBGI. It thrives to introduce a new tool, UUIDs, in the workflows developped by previous bachelor students. Furthermore, this tool could allow to link different samples to an individual instead of to a species. This, in term, could allow to increase the quantity of data attached to a single sample.
+This Bachelor project's takes place in the context of the DBGI. It thrives to test the implementation of UUIDs in the workflows developped by previous bachelor students. Furthermore, this tool could allow to link multiple samples to an individual instead of to a species. This, in term, could allow to increase the quantity of data attached to a single sample.
 
 Structure of the thesis:
 # Abstract
@@ -22,7 +22,11 @@ Structure of the thesis:
 ### Extraction
 ### Analysis
 
-## [[Bachelor-Works.Simon-Rerat.D.Results]]
+## [[Bachelor-Works.Simon-Rerat.D.Metabolomic Analysis]]
+### LC-MS parameters
+### Data processing 
+### Molecular networking
+### Results
 
 ## [[Bachelor-Works.Simon-Rerat.E.Conclusions]]
 ## [[Bachelor-Works.Simon-Rerat.G.Perspectives]]
