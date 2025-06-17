@@ -2,7 +2,7 @@
 id: 95xu1y8aejfsw1nnhat2qxd
 title: Background
 desc: ''
-updated: 1750084547434
+updated: 1750169479122
 created: 1744614093716
 ---
 ## EMI:
@@ -21,14 +21,16 @@ The Digital Botanical Gardens Initiative (DBGI) is designed as a pilot for the E
 
 Its main goal is the collect, management, and sharing of digital informations acquired in living botanical collections. As well as the management of physical libraries (?)
  To do so, it focuses on large scale characterisation of the chemiodiverstiy of plants through mass spectrometric approaches.
-Not to forget the creation of a knowledge graphe by recouping the informations from many databases (such as Botalista, Open tree of life, LOTUS, ...) to organise, structure and connect them all.
+Not to forget the creation of a knowledge graphe by recouping the informations from many databases (such as Botalista, Open tree of life (Rutz et al. 2022), LOTUS (Rutz et al. 2019), ...) to organise, structure and connect them all.
 As the methods of the DBGI while be applied to the EMI, its methods and workflow need to be scalable to match the scale of such an ambitious project. And ultimately, be applicable in wild, hard to access ecosystems.
 This should help visualise and search the functioning of ecosystems, orient research and conservation efforts.
-(ADD DBGI INFOGRAPHE)
 
+![alt text](image-2.png){height: 800px, width: 800px, display: block, margin: 0 auto}
+  _<center>Fig.XX-XX: Data types and fluxes in the DBGI summarising the inner working of the database
+  
+   (IS THIS PICTURE REALLY NECESSARY ?)</center>_
 
-
-As of now, only the Jardin Botanique de l'Université de Fribourg (JBUF) and the Jardin Botanique de Neuchâtel (JBN) are part of the initiative. The causes being practical reasons, founding teams have their offices located in Fribourg and Neuchâtel respectively, and ther unique characteristics, the JBUF arranged the System according to the APG IV (UNIFR about JBUF), and the JBN has a plants collection of ethnomedicinal value (The DBGI Consortium, 2022).
+As of now, only the Jardin Botanique de l'Université de Fribourg (JBUF) and the Jardin Botanique de Neuchâtel (JBN) are part of the initiative. The causes being practical, founding teams have their offices located in Fribourg and Neuchâtel respectively, and ther unique characteristics, the JBUF arranged the System according to the APG IV (UNIFR about JBUF), and the JBN has a plants collection of ethnomedicinal value (The DBGI Consortium, 2022).
 
 ## Definition of tree
 
@@ -61,13 +63,7 @@ Finally, a tree is a «large» plant. Its height, the diameter of its trunk, its
 
 In short, a tree is a rather large plant, when compared to human standards, which  grows a self-supporting trunk.
 
-## Sample Tracking & UUID
-One of the key aspect of the DBGI is establishing and preserving linkage between the field and the database. Therefore, a reliable sample tracking system is necessary to keep track of the numerous samples for the entirety of their processing. As soon as a sample has been collected, a unique code is assigned to it. It will follow it through each stage of preparation, from extraction to storage by being reported on all containers the sample will go through. This allows to efficiently link the data, and the metadata of the sample into the database.
-
-To go further in the labelling process, this Bachelor's project focuses on the introduction of Universally Unique IDentifiers (UUIDs), also known as Globally Unique Identifier (GUIDs) in the established workflow. UUIDs are 128-bit labels used to uniquely identify objects in computer systems. They are excellent for the purpose of the EMI, as they don't need central authority, and can be generated in the field, even in the absence of internet connection.
-This will allow the DBGI to be more precise in its metadata assignation. Attributing the UUIDs to to sampled individuals adds an extra layer of information by giving it its own individuality. This is interesting as each individual differs in state and as such, in metabolomic contents.
-
-One important point to keep in mind is that other alternatives to UUIDs such as LSID, URN, HTTP URI, DOI, IGSN, ... exist and are used in different biocollections. The biodiversity community hasn't decided on a single method to use as of yet. No specific method prevails on the others (Guralnik et al. 2015), whith their own advantages and drawbacks.
-As such, the method used by the DBGI might change as time goes on.
-
 ## iNaturalist ?
+All pictures taken while sampling are periodically uploaded on the iNaturalist website on the [DBGI profile](https://www.inaturalist.org/projects/digital-botanical-gardens-initiative). This allows to confirm the belonging of a sampled individual to a certain species by external experts. 
+
+This tool is crucial for the DBGI,but mostly for the EMI due to their sheer scale. The quantity of organisms to sample is significant. Therefore, specialist working on all branches of the tree of life are needed to reach the EMI's goal. Using iNaturalist allows to save up ressources by having a preformed channel of access to them.

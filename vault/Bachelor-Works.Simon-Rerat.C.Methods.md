@@ -2,7 +2,7 @@
 id: atiwalb8tfjseo35bgzy20s
 title: Methods
 desc: ''
-updated: 1750081198238
+updated: 1750169579094
 created: 1744614277240
 ---
 ---
@@ -49,6 +49,8 @@ To achieve this, UUID transcribed in QR-codes were generated and attached to the
 
 
 Approximately 130 trees of the botanical garden have been sampled for this bachelor's work. They are scattered all over the garden, with a greater concentration in the arboretum, and near the fences as hedges. They tend to come from all over the world with local species (_Picea abies_) aswell as tropical ones (_Persea americana_). This work might show a strong bias toward gymnosperms as they present leaves all year long, and many trees didn't show any leaves before the end of march.
+(ADD JBUF MAP)
+![alt text](CarteJBUF.PNG)
 
 
 ### Sampling
@@ -111,3 +113,14 @@ Approximately 130 trees of the botanical garden have been sampled for this bache
   ![alt text](Extrac_WhiteCap.jfif){max-height: 500px, max-width: 500px, display: block, margin: 0 auto}
   
   _<center>Fig.XX-XX: Glass vials containing inserts</center>_
+
+  ## Sample Tracking & UUID
+One of the key aspect of the DBGI is establishing and preserving linkage between the field and the database. Therefore, a reliable sample tracking system is necessary to keep track of the numerous samples for the entirety of their processing. As soon as a sample has been collected, a unique code is assigned to it. It will follow it through each stage of preparation, from extraction to storage by being reported on all containers the sample will go through. This allows to efficiently link the data, and the metadata of the sample into the database.
+
+To go further in the labelling process, this Bachelor's project focuses on the introduction of Universally Unique IDentifiers (UUIDs), also known as Globally Unique Identifier (GUIDs) in the established workflow. UUIDs are 128-bit labels used to uniquely identify objects in computer systems. They are excellent for the purpose of the EMI, as they don't need central authority, and can be generated in the field, even in the absence of internet connection.
+This will allow the DBGI to be more precise in its metadata assignation. Attributing the UUIDs to to sampled individuals adds an extra layer of information by giving it its own individuality. This is interesting as each individual differs in state and as such, in metabolomic contents.
+
+One important point to keep in mind is that other alternatives to UUIDs such as LSID, URN, HTTP URI, DOI, IGSN, ... exist and are used in different biocollections. The biodiversity community hasn't decided on a single method to use as of yet. No specific method prevails on the others (Guralnik et al. 2015), whith their own advantages and drawbacks.
+As such, the method used by the DBGI might change as time goes on.
+
+(EST CE QUE JE VEUX METTRE UN SCHöMA RESUMANT TOUT LE WORKFLOW ?)
