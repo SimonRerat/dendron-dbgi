@@ -2,7 +2,7 @@
 id: atiwalb8tfjseo35bgzy20s
 title: Methods
 desc: ''
-updated: 1750169579094
+updated: 1750170274449
 created: 1744614277240
 ---
 ---
@@ -123,4 +123,6 @@ This will allow the DBGI to be more precise in its metadata assignation. Attribu
 One important point to keep in mind is that other alternatives to UUIDs such as LSID, URN, HTTP URI, DOI, IGSN, ... exist and are used in different biocollections. The biodiversity community hasn't decided on a single method to use as of yet. No specific method prevails on the others (Guralnik et al. 2015), whith their own advantages and drawbacks.
 As such, the method used by the DBGI might change as time goes on.
 
-(EST CE QUE JE VEUX METTRE UN SCHöMA RESUMANT TOUT LE WORKFLOW ?)
+(EST CE QUE JE VEUX METTRE UN FLOWCHART DE BZ RESUMANT TOUT LE WORKFLOW ?
+
+peut-être que ce n'est pas nécessaire, mais en vrai ça pourrait être pratique pour les prochains élèves qui devront faire de la PEch)
